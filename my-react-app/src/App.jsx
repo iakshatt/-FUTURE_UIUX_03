@@ -508,7 +508,7 @@ export default function CRMDashboard() {
   const activePage = selectedLead ? "profile" : page;
 
   const pageTitles = {
-    overview: ["Dashboard", "Good morning, Arjun. Here's your agency at a glance."],
+    overview: ["Dashboard", "Good morning, Akshat. Here's your agency at a glance."],
     pipeline: ["Lead pipeline", "Drag-and-drop your deals through the funnel."],
     clients: ["Client list", `${leads.length} leads across all stages.`],
     tasks: ["Tasks & follow-ups", "Stay on top of every client touchpoint."],
